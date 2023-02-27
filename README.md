@@ -13,7 +13,7 @@ install the app, create a new adapter in the dataservice app with the following 
 # Based on
 [The tank application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
-# Choose one demo
+# Choose Guide
 and replace the connector (S7 connector or OPC UA connector) with the Fakeplc Connector
 
 * [Archiving and visualisation](https://github.com/industrial-edge/archiving-and-visualization) (zonder hmi_nextbottle) 
