@@ -47,3 +47,6 @@ and replace the connector (S7 connector or OPC UA connector) with the Fakeplc Co
 * GDB.signals.energySignals.waterConsumptionFillingTank
 * GDB.signals.energySignals.energyConsumptionHeatingTank
 * GDB.signals.energySignals.energyConsumptionFillingBottle
+
+# Notes*
+Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 with fakeplce. For example: "ie/m/j/simatic/v1/opcuac1/dp" replace to "ie/m/j/simatic/v1/fakeplc/dp"
