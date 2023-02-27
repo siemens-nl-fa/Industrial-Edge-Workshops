@@ -1,4 +1,4 @@
-# Workshop Industrial edge NL![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Workshop Industrial edge with the Fakeplc connector![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Edge workshop with fakeplc connector 
 
