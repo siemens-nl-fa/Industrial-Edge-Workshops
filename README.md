@@ -1,6 +1,14 @@
 # Workshop Industrial edge team NL ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Edge workshop with fakeplc connector
+Edge workshop with fakeplc connector 
+
+install the app, create a new adapter in the dataservice app with the following settings:
+
+* Name: fakeplc connector
+* Broker url: tcp://ie-databus:1883
+* Usename: edge (your own username)
+* Password: edge (your own password)
+* Metadata topic: ie/m/j/simatic/v1/opcuac1/dp
  
 # Based on
 [The tank application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
