@@ -7,25 +7,25 @@ Based on [The tank application](https://github.com/industrial-edge/miscellaneo
 Beschikbare demos:
 
 * Archiving and visualisation (zonder hmi_nextbottle) 
-  ** databus, influx, grafana
+  * databus, influx, grafana
   
 * Iot gateway 
-  ** databus, cloud connector, flow creator.
+  * databus, cloud connector, flow creator.
 
 * Data service getting started 
-  ** dabus, Data service
+  * dabus, Data service
 
 * Notifier getting started 
-  ** databus, dataservice, notifier
+  * databus, dataservice, notifier
 
 * Performance insight getting started 
-  ** databus, dataservice, performance insight
+  * databus, dataservice, performance insight
 
 * Performance insight oee dashboard 
-  ** Dataservice, Databus, Perf insight.
+  * Dataservice, Databus, Perf insight.
 
 * Energy manager getting started 
-  ** Dataservice, Databus, Energy manager.
+  * Dataservice, Databus, Energy manager.
 
 Gebruikte tags:
 GDB.signals.tankSignals.actLevel
