@@ -1,39 +1,41 @@
 # Workshop Industrial edge team NL ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Edge workshop with fakeplc connector
-In plaats van het verbinden met een s7 connector verbinden wij met de fakeplc connectorDeze connector simuleert dezelfde Data zoals de tank applicatie deze produceert. 
-Based on [The tank application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
+ 
+# Based on
+[The tank application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
-Beschikbare demos:
+# Choose one demo
+and replace the connector (S7 connector or OPC UA connector) with the Fakeplc Connector
 
-* Archiving and visualisation (zonder hmi_nextbottle) 
-  * databus, influx, grafana
+* [Archiving and visualisation](https://github.com/industrial-edge/archiving-and-visualization) (zonder hmi_nextbottle) 
+  * Apps: Fakeplc Connector, databus, influx, grafana
   
-* Iot gateway 
-  * databus, cloud connector, flow creator.
+* [Iot gateway](https://github.com/industrial-edge/iot-gateway)
+  * Apps: databus, cloud connector, flow creator.
 
-* Data service getting started 
-  * dabus, Data service
+* [Data service getting started](https://github.com/industrial-edge/data-service-getting-started)
+  * Apps: dabus, Data service
 
-* Notifier getting started 
-  * databus, dataservice, notifier
+* [Notifier getting started](https://github.com/industrial-edge/notifier-getting-started)
+  * Apps: databus, dataservice, notifier
 
-* Performance insight getting started 
-  * databus, dataservice, performance insight
+* [Performance insight getting started](https://github.com/industrial-edge/performance-insight-getting-started)
+  * Apps: databus, dataservice, performance insight
 
-* Performance insight oee dashboard 
-  * Dataservice, Databus, Perf insight.
+* [Performance insight oee dashboard](https://github.com/industrial-edge/Performance-Insight-OEE-Dashboard)
+  * Apps: Dataservice, Databus, Perf insight.
 
-* Energy manager getting started 
-  * Dataservice, Databus, Energy manager.
+* [Energy manager getting started](https://github.com/industrial-edge/energy-manager-getting-started)
+  * Apps: Dataservice, Databus, Energy manager.
 
-Gebruikte tags:
-GDB.signals.tankSignals.actLevel
-GDB.signals.tankSignals.actTemperature
-GDB.process.numberProduced
-GDB.process.numerFaulty
-GDB.operate.machineState
-GDB.signals.energySignals.energyConsumptionFillingTank
-GDB.signals.energySignals.waterConsumptionFillingTank
-GDB.signals.energySignals.energyConsumptionHeatingTank
-GDB.signals.energySignals.energyConsumptionFillingBottle
+# Used tags:
+* GDB.signals.tankSignals.actLevel
+* GDB.signals.tankSignals.actTemperature
+* GDB.process.numberProduced
+* GDB.process.numerFaulty
+* GDB.operate.machineState
+* GDB.signals.energySignals.energyConsumptionFillingTank
+* GDB.signals.energySignals.waterConsumptionFillingTank
+* GDB.signals.energySignals.energyConsumptionHeatingTank
+* GDB.signals.energySignals.energyConsumptionFillingBottle
