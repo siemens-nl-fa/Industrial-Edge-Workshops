@@ -8,7 +8,7 @@ install the app, create a new adapter in the dataservice app with the following 
 * Broker url: tcp://ie-databus:1883
 * Usename: edge (your own username)
 * Password: edge (your own password)
-* Metadata topic: ie/m/j/simatic/v1/opcuac1/dp
+* Metadata topic: ie/m/j/simatic/v1/fakeplc/dp
  
 # Based on
 [The tank application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
