@@ -1,9 +1,8 @@
 # Workshop Industrial edge team NL ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Edge demo opzet met fakeplc connector
+Edge workshop with fakeplc connector
 In plaats van het verbinden met een s7 connector verbinden wij met de fakeplc connectorDeze connector simuleert dezelfde Data zoals de tank applicatie deze produceert. 
-
-Gebaseerd op:The tank application
+Based on [The tank application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
 Beschikbare demos:
 
