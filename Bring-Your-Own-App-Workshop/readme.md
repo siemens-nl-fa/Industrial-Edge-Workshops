@@ -17,9 +17,10 @@ Steps
 
 ## Requirements
 
-download https://github.com/industrial-edge/hello-world to your development folder
-
-Install Docker engine and allow communication from outside
+* download https://github.com/industrial-edge/hello-world to your development folder
+* Install Docker engine and allow communication from outside
+* Industrial edge management - Up and running
+* Industrial edge Device - Up and running
 
 ## Build application
 
