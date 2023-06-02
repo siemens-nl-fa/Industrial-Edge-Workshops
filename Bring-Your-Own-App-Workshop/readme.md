@@ -40,15 +40,18 @@
 3. Create a new app in the folder. Name it "hello-world"
 4. Fill in all the fields
 5. Create
-   ![Create App](assets/20230601_162147_image.png)
+
+![Create App](assets/20230601_162147_image.png)
 
 ## Setup the Publisher
 
 1. Open the publisher
 2. Connect Docker engine
+   
    ![Connect Docker Engine](assets/20230601_164109_image.png)
    ![Connect Docker Engine](assets/20230601_164123_image.png)
 3. Connect publisher to the management
+   
    ![Connect Publisher to Management](assets/20230601_164151_image.png)
 4. In the publisher, open Project > Hello-World
 5. Add new app version
@@ -56,11 +59,14 @@
    - Select the docker-compose.yml in the hello-world folder
    - The warnings can be ignored
 7. Configure the reverse proxy of the hello-world service. Click the edit button to change settings
-   ![Configure Reverse Proxy](assets/20230601_164340_image.png)
+  
+  ![Configure Reverse Proxy](assets/20230601_164340_image.png)
 8. Go to "network" and set up the following
+   
    ![Set up Network](assets/20230601_164356_image.png)
 9. Click on "+" and you should see
-   ![Add Network](assets/20230601_164420_image.png)
+  
+  ![Add Network](assets/20230601_164420_image.png)
 10. Press "Save"
 11. Click "Review" and "Validate and Create"
 12. Start upload to transfer to the management
@@ -71,8 +77,10 @@
 2. Go to App Projects > Project
    - Open app > Hello-World
    - Publish the latest version to be used for everybody!
+     
      ![Publish Latest Version](assets/20230601_164703_image.png)
    - Press on the download icon and select your edge device
+     
      ![Download Icon](assets/20230601_164732_image.png)
    - Install on your edge device
 
