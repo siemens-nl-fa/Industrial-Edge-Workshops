@@ -1,10 +1,8 @@
 # Configuration
-
+- [Configure Data Service](#configure-data-service) 
+  - [Configure an asset with variables](#configure-an-asset-with-variables)
 - [Configure Performance Insight](#configure-performance-insight)
   - [Configure OPC UA Connector](#configure-OPC-UA-connector)
-- [Configure Data Service](#configure-data-service)
-  - [Configure the connector](#configure-the-connector)
-  - [Configure an asset with variables](#configure-an-asset-with-variables)
 - [Configure Performance Insight](#configure-performance-insight)
     - [Configure a dashboard](#configure-a-dashboard)
     - [Configure widgets](#configure-widgets)
