@@ -1,7 +1,5 @@
 # Configuration
 
-- [Configure PLC Connection](#configure-plc-connection)
-  - [Configure Databus](#configure-databus)
 - [Configure Performance Insight](#configure-performance-insight)
   - [Configure OPC UA Connector](#configure-OPC-UA-connector)
 - [Configure Data Service](#configure-data-service)
