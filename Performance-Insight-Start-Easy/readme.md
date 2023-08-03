@@ -12,9 +12,9 @@
     - [Configure widgets](#configure-widgets)
     - [Configure KPIs](#configure-KPIs)
 		
-# Configure PLC Connection
+# PREConfigured PLC Connection
 
-To read data from the PLC and provide the data, we will use OPC UA Connector to establish connection with the PLC .
+To read data from the PLC and provide the data, we will use OPC UA Connector to establish connection with the PLC.
 The OPC UA Connector sends the data to the Databus, where the Data Service app can collect what is needed. The Performance Insight app is extremely dependent on a properly configured data service app.
 In order to build this infrastructure, these apps must be configured properly:
 
