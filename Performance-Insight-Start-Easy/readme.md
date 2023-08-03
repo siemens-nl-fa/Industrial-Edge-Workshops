@@ -25,39 +25,6 @@ In order to build this infrastructure, these apps must be configured properly:
 
  <p align="center"><kbd><img src="graphics/performanceinsight.PNG"/></kbd></p>
 
-## Configure Databus
-
-In your IEM open the Databus and launch the configurator.
-
-Add a user with this topic:
-`"ie/#"`
-
-<p align="center"><kbd><img src="graphics/DatabusAdduser.PNG"/></kbd></p>
-
-<p align="center"><kbd><img src="graphics/Databusconfiguration.PNG" /></kbd></p>
-
-Deploy the configuration.
-
-## Configure OPC UA Connector
-
-In your IEM open the OPC UA Connector and launch the configurator.
-
-Add a data source:
-
-<p align="center"><kbd><img src="graphics/Addsource.PNG" /></kbd></p>
-
-Add needed tags:
-
-<p align="center"><kbd><img src="graphics/OPCUA_ADDTAGS.PNG" /></kbd></p>
-
-Edit the settings:
-
-<p align="center"><kbd><img src="graphics/OPCUASETTINGS.PNG" /></kbd></p>
-
-Hint: Username and password should be the same for all system apps, e.g. "edge" / "edge".
-
-Deploy and start the project.
-
 # Configure Data Service
 
 In your IED Web UI open the app Data Service.
