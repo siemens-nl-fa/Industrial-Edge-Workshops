@@ -114,3 +114,5 @@ In order to calculate the production quality a KPI instance to be created
 This quality production KPI has been displayed using a gauge widget (frist widget mentioned). KPI has been instanced within a widget
 
 <p align="center"><kbd><img src="graphics/editkpi.PNG" /></kbd></p>
+
+From there Fill in the rest and create widget.
