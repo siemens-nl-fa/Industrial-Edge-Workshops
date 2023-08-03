@@ -99,6 +99,14 @@ By clicking the detailed view icon, a detailed Gantt diagram will be shown (more
 
 Additional values (also named KPIs) can be calculated out of the existing variables.
 
+When configuring a widget, an instance can be created, select a gauge and press Next:
+
+<p align="center"><kbd><img src="graphics/widget types.PNG" /></kbd></p>
+
+The standard widget configuration has to select some parameters, create a new KPI instance.
+
+<p align="center"><kbd><img src="graphics/Parameter of INSIGHT.PNG" /></kbd></p>
+
 In order to calculate the production quality a KPI instance to be created 
 
 <p align="center"><kbd><img src="graphics/KPI instance.PNG" /></kbd></p>
