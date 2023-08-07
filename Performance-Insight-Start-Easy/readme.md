@@ -1,20 +1,14 @@
 # Configuration
-
-- [Configure PLC Connection](#configure-plc-connection)
-  - [Configure Databus](#configure-databus)
-- [Configure Performance Insight](#configure-performance-insight)
-  - [Configure OPC UA Connector](#configure-OPC-UA-connector)
-- [Configure Data Service](#configure-data-service)
-  - [Configure the connector](#configure-the-connector)
+- [Configure Data Service](#configure-data-service) 
   - [Configure an asset with variables](#configure-an-asset-with-variables)
 - [Configure Performance Insight](#configure-performance-insight)
     - [Configure a dashboard](#configure-a-dashboard)
     - [Configure widgets](#configure-widgets)
     - [Configure KPIs](#configure-KPIs)
 		
-# Configure PLC Connection
+# PREConfigured PLC Connection
 
-To read data from the PLC and provide the data, we will use OPC UA Connector to establish connection with the PLC .
+To read data from the PLC and provide the data, we will use OPC UA Connector to establish connection with the PLC.
 The OPC UA Connector sends the data to the Databus, where the Data Service app can collect what is needed. The Performance Insight app is extremely dependent on a properly configured data service app.
 In order to build this infrastructure, these apps must be configured properly:
 
@@ -30,20 +24,6 @@ In order to build this infrastructure, these apps must be configured properly:
 In your IED Web UI open the app Data Service.
 
 Hint: If an error screen appears saying "...unauthorized...", please restart the Data Service app, wait a moment and try again to open it.
-
-## Configure the connector
-
-On the left bar click the icon "Connectors" and choose the OPC UA Connector (MQTT).
-
-In the settings for the connector click the edit icon on the right to open the connector configuration.
-
-<p align="center"><kbd><img src="graphics/opcuaconnector.PNG" /></kbd></p>
-
-Add the missing entries for name (OPC UA Connector) username and password (again "edge"/"edge") and use databus settings should be deactivated and save it.
-
-<p align="center"><kbd><img src="graphics/opcuaadapterdetails.PNG" /></kbd></p>
-
-Hint: Sometimes the Data Service app must be restarted, to take over the connector changes.
 
 ## Configure an asset with variables
 
@@ -134,3 +114,5 @@ In order to calculate the production availability a KPI instance to be created, 
 This quality availability KPI has been displayed using a gauge widget (frist widget mentioned). KPI has been instanced within a widget
 
 <p align="center"><kbd><img src="graphics/editkpi.PNG" /></kbd></p>
+
+From there Fill in the rest and create widget.
