@@ -104,15 +104,17 @@ When configuring a widget, an instance can be created, select a gauge and press 
 
 <p align="center"><kbd><img src="graphics/Parameter of INSIGHT_2.PNG" /></kbd></p>
 
-In order to calculate the production availability a KPI instance to be created, fill as follows then save.
+In order to calculate the production availability a KPI instance to be created.
 
 <p align="center"><kbd><img src="graphics/Performance_Insight_KPI_Gauge_Widget_2.png" /></kbd></p>
+
+create new KPI instance with the following parameters, then save.
 <p align="center"><kbd><img src="graphics/KPI instance_2.PNG" /></kbd></p>
 <p align="center"><kbd><img src="graphics/KPI instance_3.PNG" /></kbd></p>
 
 
 This quality availability KPI has been displayed using a gauge widget (frist widget mentioned). KPI has been instanced within a widget
 
-<p align="center"><kbd><img src="graphics/editkpi.PNG" /></kbd></p>
+<p align="center"><kbd><img src="graphics/Performance_Insight_Gauge_Widget_2.png" /></kbd></p>
 
 From there Fill in the rest and create widget.
