@@ -29,13 +29,13 @@ Hint: If an error screen appears saying "...unauthorized...", please restart the
 
 On the left bar click the icon "Assets & Connectivity". For the "edge" asset you can add child assets as needed.
 
-Choose "Add variable" or "Multiple variables" on the right side to add tags.
+Choose "Multiple variables" on the right side to add tags.
 
-The required tank application variables are: tank level, tank temperature, produced bottles and faulty bottles.
+The required tank application requires some variables, but you can add them all.
 
 <p align="center"><kbd><img src="graphics/assestsandconnect.png"/></kbd></p>
 
-<p align="center"><kbd><img src="graphics/Addvariables.PNG" /></kbd></p>
+
 
 # Configure Performance Insight
 
