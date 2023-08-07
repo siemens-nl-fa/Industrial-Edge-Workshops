@@ -91,7 +91,7 @@ In case of a Gauge Widget an additional dialog will appear with the display boun
 
 <p align="center"><kbd><img src="graphics/Detail Insight.PNG" /></kbd></p>
 
-The first widget is a gauge display for the actual production quality (with its respective warning and alarming levels)
+The first widget is a gauge display for the actual production quantity (with its respective warning and alarming levels)
 
 <p align="center"><kbd><img src="graphics/Quality insight.PNG" /></kbd></p>
 
@@ -113,16 +113,24 @@ Afterwards the Widget has to be added. The Gantt Overview will be displayed on t
 
 By clicking the detailed view icon, a detailed Gantt diagram will be shown (more visible data)
 
-<p align="center"><kbd><img src="graphics/performance-insight-gantt-detail-view.png" /></kbd></p>
+
 
 ## Configure KPIs
 
 Additional values (also named KPIs) can be calculated out of the existing variables.
 
-In order to calculate the production quality a KPI instance to be created 
 
-<p align="center"><kbd><img src="graphics/KPI instance.PNG" /></kbd></p>
+When configuring a widget, an instance can be created, select a gauge and press next:
 
-This quality production KPI has been displayed using a gauge widget (frist widget mentioned). KPI has been instanced within a widget
+<p align="center"><kbd><img src="graphics/Parameter of INSIGHT_2.PNG" /></kbd></p>
+
+In order to calculate the production availability a KPI instance to be created, fill as follows then save.
+
+<p align="center"><kbd><img src="graphics/Performance_Insight_KPI_Gauge_Widget_2.png" /></kbd></p>
+<p align="center"><kbd><img src="graphics/KPI instance_2.PNG" /></kbd></p>
+<p align="center"><kbd><img src="graphics/KPI instance_3.PNG" /></kbd></p>
+
+
+This quality availability KPI has been displayed using a gauge widget (frist widget mentioned). KPI has been instanced within a widget
 
 <p align="center"><kbd><img src="graphics/editkpi.PNG" /></kbd></p>
