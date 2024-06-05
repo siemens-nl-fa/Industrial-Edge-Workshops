@@ -1,4 +1,4 @@
-# Configuration
+# Industrial Edge Playground - Hands-on with data
 
 ![DataFlow.png](graphics/DataFlow.PNG)
 
