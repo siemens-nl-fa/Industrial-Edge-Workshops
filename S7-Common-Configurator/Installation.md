@@ -77,6 +77,11 @@ Also check the storage checkboxes and deploy
 ![sinuslocaldatasource7.png](graphics/sinuslocaldatasource7.png)
 
 
+### Mapping a KPI
+Select the Energy Asset and create a new Variable 
 
+Rename it to Total Energy by doubleclick on the name (Variable1)
+
+![sinuslocaldatasource8.png](graphics/sinuslocaldatasource7.png)
 
 
