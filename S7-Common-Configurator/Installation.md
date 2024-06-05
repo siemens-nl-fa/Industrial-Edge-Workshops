@@ -46,7 +46,18 @@ Import the tags to S7 connector from S7.zip file exported from TIA portal by usi
 
 
 
-Add these four tags Frequency, Offset, Amplitude, SinusVal with 1 sec of acquisition cycle (since we want to write variable values into the PLC, set "Read & Write" as access mode): 
+Add these 8 tags with 1 sec of acquisition cycle:
+* GDB.operate.machineState
+* GDB.signals.tankSignals.actLevel
+* GDB.signals.tankSignals.actPressure
+* GDB.signals.tankSignals.actTemperature
+* GDB.signals.energySignals.energyConsumptionFillingTank
+* GDB.signals.energySignals.energyConsumptionHeatingTank	
+* GDB.signals.energySignals.energyConsumptionFillingBottles
+* GDB.process.numberProduced
+
+and import 
+then deploy
 
 ![Localnewtag.PNG](graphics/Localnewtag.PNG)
 
