@@ -33,11 +33,9 @@ Add a data source:
 ![sinuslocaldatasource.png](graphics/sinuslocaldatasource.png)
 ![sinuslocaldatasource2.png](graphics/sinuslocaldatasource2.png)
 
-Add a data Databus credentials in common configurator:
+browse the tags
 
-![Databus_IIH.PNG](graphics/Databus_IIH.PNG)
-
-Hint: Username and password should be the same as was set in the Databus configuration, e.g., "edge" / "edge".
+![sinuslocaldatasource3.png](graphics/sinuslocaldatasource32.png)
 
 Deploy and start the project.
 
