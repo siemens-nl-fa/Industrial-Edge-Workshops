@@ -31,6 +31,7 @@ This Configuration done locally at the Industrial edge Device
 Add a data source:
 
 ![sinuslocaldatasource.png](graphics/sinuslocaldatasource.png)
+![sinuslocaldatasource2.png](graphics/sinuslocaldatasource2.png)
 
 Add a data Databus credentials in common configurator:
 
