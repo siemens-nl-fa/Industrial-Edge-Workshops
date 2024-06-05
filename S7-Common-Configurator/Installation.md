@@ -71,7 +71,7 @@ Create two assets:
 
 <br>
 
-Place the Tank related signals in Tank and the energy related signals in Energy.
+Drag and drop the Tank related tags in Tank and the energy related tags in Energy.
 Also check the storage checkboxes and deploy
 
 ![sinuslocaldatasource7.png](graphics/sinuslocaldatasource7.png)
