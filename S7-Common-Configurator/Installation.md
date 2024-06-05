@@ -12,6 +12,8 @@ The tia portal machine will be available to start, stop or edit the plc. it is a
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource13.png)
 
+![setup.png](graphics/setup.png)
+
 ## Configure PLC Connection
 
 To read data from the PLC and provide the data, we will use the SIMATIC S7 Connector to establish connection with the PLC via S7.
