@@ -16,11 +16,6 @@ In order to build this infrastructure, these apps must be configured properly:
 
 ### Configure the SIMATIC S7 Connector 
 
-Simatic S7 Connector can be configured 
-
-
-#### Local Configuration
-
 In your Industrial edge device open the common configurator and configure the S7 connector
 
 This Configuration done locally at the Industrial edge Device
