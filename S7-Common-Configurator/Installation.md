@@ -64,6 +64,9 @@ In your Industrial edge device open the ```common configurator``` and open ```De
 Create two assets:
 * Tank
   * Energy
+
+<br>
+
 ![sinuslocaldatasource6.png](graphics/sinuslocaldatasource6.png)
 
 
