@@ -80,9 +80,16 @@ Also check the storage checkboxes and deploy
 ### Mapping a KPI
 Select the Energy Asset and create a new Variable 
 
-Rename it to Total Energy by doubleclick on the name (Variable1)
+Rename it to Total Energy by doubleclicking on the name (Variable1)
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource8.png)
+
+Then press on the Fx (function) button to create the KPI<br>
+Drag and drop the 3 Energy variables to the screen and add + inbetween to sum then up.
+
+![sinuslocaldatasource8.png](graphics/sinuslocaldatasource10.png)
+
+press Save
 
 
 
