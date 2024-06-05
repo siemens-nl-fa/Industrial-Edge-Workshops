@@ -33,13 +33,12 @@ Add a data source:
 ![sinuslocaldatasource.png](graphics/sinuslocaldatasource.png)
 ![sinuslocaldatasource2.png](graphics/sinuslocaldatasource2.png)
 
-browse the tags
-
-![sinuslocaldatasource3.png](graphics/sinuslocaldatasource32.png)
 
 Deploy and start the project.
 
 Import the tags to S7 connector from S7.zip file exported from TIA portal by using export SCADA simatic tool in common configurator:
+
+``` THIS FILE CAN BE FOUND ON THE DESKTOP ```
 
 Download the SCADA simatic tool from siemens site for TIA portal:
 
