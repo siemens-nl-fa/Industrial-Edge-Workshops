@@ -103,3 +103,8 @@ To preview the data we can go to the store data tab. if we select the last-value
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource12.png)
 ![totalenergy.png](graphics/totalenergy.png)
 
+## Visualise the data in Energy Manager or performance insight
+Continue on your own by using your set-up data in performance insight or energy manager,
+
+Go to the edge device interface and open the performance insight app or energy manager
+
