@@ -6,11 +6,12 @@
 
 To read data from the PLC and provide the data, we will use the SIMATIC S7 Connector to establish connection with the PLC via S7.
 
-The SIMATIC S7 sends the data to the Databus, where the Flow Creator app can collect what is needed.
+The SIMATIC S7 sends the data to the Databus, where the Database app (IIH Essentials) can collect what is needed.
 
 In order to build this infrastructure, these apps must be configured properly:
 
 - SIMATIC S7 Connector
+- Common Configurator
 
 
 ### Configure the SIMATIC S7 Connector 
