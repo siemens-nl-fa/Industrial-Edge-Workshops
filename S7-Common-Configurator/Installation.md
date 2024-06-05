@@ -28,7 +28,8 @@ Add a data source:
 
 Deploy and start the project.
 
-Import the tags to S7 connector from S7.zip file exported from TIA portal by using export SCADA simatic tool in common configurator:
+Import the tags to S7 connector from Export.zip file exported from TIA portal by using export SCADA simatic tool in common configurator:
+![import.png](graphics/import.png)
 
 ``` EXPORT.ZIP CAN BE FOUND ON THE DESKTOP ```
 
