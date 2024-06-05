@@ -2,6 +2,14 @@
 
 ![DataFlow.png](graphics/DataFlow.PNG)
 
+
+## Setup
+We have two virtual machines available
+* 1 Tia portal machine with plcsim
+* 1 Linux jumphost to access the Industrial edge Device
+
+The tia portal machine will be available to start, stop or edit the plc. it is also possible to open the HMI. The Linux jumphost has all the setting available to work with industrial edge.
+
 ## Configure PLC Connection
 
 To read data from the PLC and provide the data, we will use the SIMATIC S7 Connector to establish connection with the PLC via S7.
