@@ -59,7 +59,7 @@ then deploy
 ## Mapping tags
 To save the data from the s7 connector we must map them into assets.
 
-In your Industrial edge device open the common configurator and Open ```Define data```
+In your Industrial edge device open the ```common configurator``` and open ```Define data```
 
 Create two assets:
 * Tank
