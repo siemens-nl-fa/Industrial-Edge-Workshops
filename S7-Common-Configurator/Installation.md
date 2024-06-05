@@ -89,7 +89,16 @@ Drag and drop the 3 Energy variables to the screen and add + inbetween to sum th
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource10.png)
 
-press Save
+press Save <br>
 
+select storage again and deploy.
 
+![sinuslocaldatasource8.png](graphics/sinuslocaldatasource11.png)
+
+Now we Created the KPI
+
+## Get insights in the stored data
+To preview the data we can go to the store data tab. if we select the last-values we can see the data.
+
+![sinuslocaldatasource8.png](graphics/sinuslocaldatasource12.png)
 
