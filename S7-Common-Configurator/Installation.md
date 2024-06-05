@@ -69,6 +69,12 @@ Create two assets:
 
 ![sinuslocaldatasource6.png](graphics/sinuslocaldatasource6.png)
 
+<br>
+
+Place the Tank related signals in Tank and the energy related signals in Energy.
+Also check the storage checkboxes and deploy
+
+![sinuslocaldatasource7.png](graphics/sinuslocaldatasource7.png)
 
 
 
