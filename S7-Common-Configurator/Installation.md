@@ -1,10 +1,6 @@
 # Configuration
 
-- [Configuration](#configuration)
-  - [Configure PLC Connection](#configure-plc-connection)
-    - [Configure the Databus](#configure-the-databus)
-    - [Configure the SIMATIC S7 Connector](#configure-the-simatic-s7-connector)
-  - [Configure Flow Creator](#configure-flow-creator)
+![DataFlow.png](graphics/DataFlow.png)
 
 ## Configure PLC Connection
 
