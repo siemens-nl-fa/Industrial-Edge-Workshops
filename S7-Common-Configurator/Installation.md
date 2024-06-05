@@ -59,6 +59,9 @@ Add these 8 tags with 1 sec of acquisition cycle:
 and import 
 then deploy
 
+![sinuslocaldatasource5.png](graphics/sinuslocaldatasource5.png)
+
+
 ![Localnewtag.PNG](graphics/Localnewtag.PNG)
 
 >Hint! Please use the same variable names as shown in the screenshot, otherwise the flow creator script must be adjusted.
