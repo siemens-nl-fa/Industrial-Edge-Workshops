@@ -38,14 +38,12 @@ Deploy and start the project.
 
 Import the tags to S7 connector from S7.zip file exported from TIA portal by using export SCADA simatic tool in common configurator:
 
-``` THIS FILE CAN BE FOUND ON THE DESKTOP ```
-
-Normally you can download the SCADA simatic tool from siemens site for TIA portal:
-
-![simaticscada.PNG](graphics/simaticscada.PNG) 
+``` EXPORT.ZIP CAN BE FOUND ON THE DESKTOP ```
 
 
-![addtagssinuslocal.png](graphics/addtagssinuslocal.png) 
+
+![sinuslocaldatasource4.png](graphics/sinuslocaldatasource4.png)
+
 
 
 Add these four tags Frequency, Offset, Amplitude, SinusVal with 1 sec of acquisition cycle (since we want to write variable values into the PLC, set "Read & Write" as access mode): 
