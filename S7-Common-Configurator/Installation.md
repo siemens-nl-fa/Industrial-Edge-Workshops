@@ -101,4 +101,5 @@ Now we Created the KPI
 To preview the data we can go to the store data tab. if we select the last-values we can see the data.
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource12.png)
+![totalenergy.png](graphics/totalenergy.png)
 
