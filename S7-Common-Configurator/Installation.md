@@ -62,9 +62,6 @@ then deploy
 ![sinuslocaldatasource5.png](graphics/sinuslocaldatasource5.png)
 
 
-![Localnewtag.PNG](graphics/Localnewtag.PNG)
-
->Hint! Please use the same variable names as shown in the screenshot, otherwise the flow creator script must be adjusted.
 
 
 
