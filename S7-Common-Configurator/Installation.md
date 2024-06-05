@@ -1,6 +1,6 @@
 # Configuration
 
-![DataFlow.png](graphics/DataFlow.png)
+![DataFlow.png](graphics/DataFlow.PNG)
 
 ## Configure PLC Connection
 
