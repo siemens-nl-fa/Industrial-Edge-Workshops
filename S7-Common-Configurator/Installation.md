@@ -49,12 +49,22 @@ Add these 8 tags with 1 sec of acquisition cycle:
 * GDB.signals.energySignals.energyConsumptionFillingBottles
 * GDB.process.numberProduced
 
-and import 
+Import 
 then deploy
 
 ![sinuslocaldatasource5.png](graphics/sinuslocaldatasource5.png)
 
 
+
+## Mapping tags
+To save the data from the s7 connector we must map them into assets.
+
+In your Industrial edge device open the common configurator and Open ```Define data```
+
+Create two assets:
+* Tank
+  * Energy
+![sinuslocaldatasource6.png](graphics/sinuslocaldatasource6.png)
 
 
 
