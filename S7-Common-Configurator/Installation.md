@@ -83,6 +83,6 @@ Select the Energy Asset and create a new Variable
 Rename it to Total Energy by doubleclick on the name (Variable1)
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource8.png)
-![sinuslocaldatasource9.png](graphics/sinuslocaldatasource9.png)
+
 
 
