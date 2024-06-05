@@ -40,7 +40,7 @@ Import the tags to S7 connector from S7.zip file exported from TIA portal by usi
 
 ``` THIS FILE CAN BE FOUND ON THE DESKTOP ```
 
-Download the SCADA simatic tool from siemens site for TIA portal:
+Normally you can download the SCADA simatic tool from siemens site for TIA portal:
 
 ![simaticscada.PNG](graphics/simaticscada.PNG) 
 
