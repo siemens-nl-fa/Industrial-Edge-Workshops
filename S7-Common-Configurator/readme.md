@@ -45,6 +45,7 @@ Import the tags to S7 connector from Export.zip file exported from TIA portal by
 ![import.png](graphics/import.png)
 
 ``` EXPORT.ZIP CAN BE FOUND ON THE DESKTOP ```
+(or browse)
 
 
 
