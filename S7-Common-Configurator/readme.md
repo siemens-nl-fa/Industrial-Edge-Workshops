@@ -1,5 +1,5 @@
 # Industrial Edge Playground - Hands-on with data
-
+[vlab.siemens.cloud](https://vlab.siemens.cloud/)
 ![DataFlow.png](graphics/DataFlow.PNG)
 
 
