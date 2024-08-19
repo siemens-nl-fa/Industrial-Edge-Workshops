@@ -85,44 +85,32 @@ Configure the SIMATIC S7 Connector:
 1. Open the Edge Device (Onboarded IED1) and open the common configurator 
 2. Select get data and Click the the S7 connector
 3. Add a datasource
+  * Protocol = Optimized s7
+  * Name = PLC
+  * PLC-Type = s7-1500
+  * IP = PLC IP From secrets.html
+4. Save
+
+
 
 ![add_datasource.png](graphics_/add_datasource.PNG)
-<br>*Databus Credentials on common configurator*
+<br>*Adding Datasource and setting up PLC Connection*
+
+
+5. Click on browse tags > start browse
+6. Add these 8 tags with 1 sec of acquisition cycle:
+  * GDB.operate.machineState
+  * GDB.signals.tankSignals.actLevel
+  * GDB.signals.tankSignals.actPressure
+  * GDB.signals.tankSignals.actTemperature
+  * GDB.signals.energySignals.energyConsumptionFillingTank
+  * GDB.signals.energySignals.energyConsumptionHeatingTank	
+  * GDB.signals.energySignals.energyConsumptionFillingBottles
+  * GDB.process.numberProduced
+![browse.png](graphics_/browse.png)
 
 
 
-This Configuration done locally at the Industrial edge Device
-
-Add a data source:
-
-![sinuslocaldatasource.png](graphics/sinuslocaldatasource.png)
-![sinuslocaldatasource2.png](graphics/sinuslocaldatasource2.png)
-
-```The IP of the plc can be found in the Secrets.html```
-
-Deploy and start the project.
-
-Import the tags to S7 connector from Export.zip file exported from TIA portal by using export SCADA simatic tool in common configurator:
-![import.png](graphics/import.png)
-
-``` EXPORT.ZIP CAN BE FOUND ON THE DESKTOP ```
-(or browse)
-
-
-
-![sinuslocaldatasource4.png](graphics/sinuslocaldatasource4.png)
-
-
-
-Add these 8 tags with 1 sec of acquisition cycle:
-* GDB.operate.machineState
-* GDB.signals.tankSignals.actLevel
-* GDB.signals.tankSignals.actPressure
-* GDB.signals.tankSignals.actTemperature
-* GDB.signals.energySignals.energyConsumptionFillingTank
-* GDB.signals.energySignals.energyConsumptionHeatingTank	
-* GDB.signals.energySignals.energyConsumptionFillingBottles
-* GDB.process.numberProduced
 
 Import 
 then deploy
