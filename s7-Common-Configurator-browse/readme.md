@@ -114,6 +114,10 @@ Configure the SIMATIC S7 Connector:
 7. Import and Add to datasource
 8. Deploy 
 
+![sinuslocaldatasource5.png](graphics/sinuslocaldatasource5.png)
+<br>*Final*
+
+
 ## Mapping tags
 To save the data from the s7 connector we must map them into assets.
 
