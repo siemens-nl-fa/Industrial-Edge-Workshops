@@ -1,8 +1,8 @@
 # Industrial Edge Playground - Hands-on with data
+
+![DataFlow.png](graphics/DataFlow.PNG) <br><br>
+
 [vlab.siemens.cloud](https://vlab.siemens.cloud/) <br><br>
-
-![DataFlow.png](graphics/DataFlow.PNG)
-
 
 ## Setup
 We have two virtual machines available
