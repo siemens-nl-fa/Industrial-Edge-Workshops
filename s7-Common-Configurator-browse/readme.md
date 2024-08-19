@@ -46,19 +46,33 @@ Components:
     * SIMATIC S7 Connector<br>
 4. Check if the apps are installed on the "Onboarded IED1"
 
-## Step 2: Configure databus & Settings
+## Step 2: Configure databus & Settings (MQTT)
+We install the databus to let the apps communicate with eachother over MQTT.
+
 1. Open the management (IEM) > Data Connections and select databus
-  * Launch on demoied1
+    * Launch on demoied1
 2. Click on + next to users
-  * Topic Name: ie/#
-  * username: edge
-  * password: edge
-  * permission: Publish and Subscribe
+    * Topic Name: ie/#
+    * username: edge
+    * password: edge
+    * permission: Publish and Subscribe
 3. Save
 4. Deploy to demoied1
 
 ![databus.png](graphics_/databus.PNG)
-<br>*databus configurator*
+<br>*Databus configurator*
+
+5. Open the Edge Device (Onboarded IED1) and open the app "Common Configurator"
+6. Go to settings > Databus Credentials
+7. Set the following and save:
+  * Databus Service name = ie-databus:1883
+  * User name = edge
+  * Password = edge
+8. do this on both tabs
+
+![databus_comm.png](graphics_/databus_comm.PNG)
+<br>*Databus Credentials on common configurator*
+
 
 ## Configure PLC Connection
 
