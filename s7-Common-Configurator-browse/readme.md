@@ -27,9 +27,10 @@ Components:
   * Controlling machines
 
 ## Step 1: Install applications
-Open google chrome on the desktop and read the secrets.html <br>
-login on the "IEM" and "Onboarded IED1" on different tabs <br>
+1. Open google chrome on the desktop and read the secrets.html <br>
+2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
 ![secrets.png](graphics_/secrets.PNG)
+<br>*Secrets file*
 
 
 ## Configure PLC Connection
