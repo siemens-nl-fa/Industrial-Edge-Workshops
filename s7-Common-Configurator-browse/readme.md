@@ -164,7 +164,7 @@ To preview the data we can go to the store data tab. if we select the last-value
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource12.png)
 ![totalenergy.png](graphics/totalenergy.png)
 
-## Visualise the data in Energy Manager or performance insight
+## Continue on other usecases
 Continue on your own by using this data in performance insight, energy manager, Cloud Connectivity or Custom application .
 
 
