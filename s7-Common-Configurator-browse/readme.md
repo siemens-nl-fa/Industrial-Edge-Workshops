@@ -38,12 +38,12 @@ Components:
 2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
 3. Open the management (IEM) and install apps via the catalog <br>
 
-  * Common Configurator
-  * Databus
-  * IIH Essential
-  * IIH Semantics
-  * Registry Service
-  * SIMATIC S7 Connector
+  * Common Configurator<br>
+  * Databus<br>
+  * IIH Essential<br>
+  * IIH Semantics<br>
+  * Registry Service<br>
+  * SIMATIC S7 Connector<br>
 
 
 
