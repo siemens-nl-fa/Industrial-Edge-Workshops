@@ -165,7 +165,7 @@ To preview the data we can go to the store data tab. if we select the last-value
 ![totalenergy.png](graphics/totalenergy.png)
 
 ## Visualise the data in Energy Manager or performance insight
-Continue on your own by using your data in performance insight or energy manager.
+Continue on your own by using this data in performance insight, energy manager, Cloud Connectivity or Custom application .
 
-Go to the edge device interface and open the performance insight app or energy manager
+
 
