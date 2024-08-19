@@ -2,9 +2,10 @@
 
 ![DataFlow.png](graphics/DataFlow.PNG) <br><br>
 
+
 [vlab.siemens.cloud](https://vlab.siemens.cloud/) <br><br>
 
-## Setup
+## Virtual lab
 We have two virtual machines available
 * 1 Windows with Tia portal machine for PLCs engineering
 * 1 Linux jumphost for access
@@ -12,6 +13,8 @@ We have two virtual machines available
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource13.png)
 Virtual lab Environment.
 
+
+## Architecure
 ![setup.png](graphics/setup.png)
 Architecture
 
