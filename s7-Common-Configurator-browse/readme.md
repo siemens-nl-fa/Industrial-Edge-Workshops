@@ -11,7 +11,7 @@ We have two virtual machines available running in [vlab.siemens.cloud](https://v
 <br> *Virtual machine available*
 
 
-## Architecure
+## Architecture
 Overview of how the machines communicate to the edge environment.
 ![setup.png](graphics_/setup.PNG)
 <br> *Complete architecture*
@@ -25,6 +25,12 @@ Components:
 
 * Virtual PLC
   * Controlling machines
+
+## Step 1: Install applications
+Open google chrome on the desktop and read the secrets.html <br>
+login on the "IEM" and "Onboarded IED1" on different tabs <br>
+![secrets.png](graphics_/secrets.PNG)
+
 
 ## Configure PLC Connection
 
