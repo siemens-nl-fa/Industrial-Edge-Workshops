@@ -30,6 +30,7 @@ Components:
 1. Open google chrome on the desktop and read the secrets.html <br>
 2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
 <br>
+
 ![secrets.png](graphics_/secrets.PNG)
 <br>*Secrets file*
 
