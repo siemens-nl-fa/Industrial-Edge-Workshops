@@ -98,7 +98,7 @@ Configure the SIMATIC S7 Connector:
 
 
 5. Click on browse tags > start browse
-6. Add these 8 tags with 1 sec of acquisition cycle:
+6. Add these 8 tags with a 1s acquisition cycle:
     * GDB.operate.machineState
     * GDB.signals.tankSignals.actLevel
     * GDB.signals.tankSignals.actPressure
@@ -111,14 +111,8 @@ Configure the SIMATIC S7 Connector:
 ![browse.png](graphics_/browse2.PNG)
 <br>*Browsing tags*
 
-
-
-Import 
-then deploy
-
-![sinuslocaldatasource5.png](graphics/sinuslocaldatasource5.png)
-
-
+7. Import and Add to datasource
+8. Deploy 
 
 ## Mapping tags
 To save the data from the s7 connector we must map them into assets.
