@@ -37,6 +37,7 @@ Components:
 <br>
 2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
 3. Open the management (IEM) and install apps via the catalog <br>
+
   * Common Configurator
   * Databus
   * IIH Essential
