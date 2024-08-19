@@ -47,7 +47,7 @@ Components:
 4. Check if the apps are installed on the "Onboarded IED1"
 
 ## Step 2: Configure databus & Settings (MQTT)
-We install the databus to let the apps communicate with eachother over MQTT.
+We install the databus to let the apps communicate with eachother over MQTT on the edge device.
 
 1. Open the management (IEM) > Data Connections and select databus
     * Launch on demoied1
