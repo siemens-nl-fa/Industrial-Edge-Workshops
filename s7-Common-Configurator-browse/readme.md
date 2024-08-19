@@ -115,17 +115,16 @@ Configure the SIMATIC S7 Connector:
 8. Deploy 
 
 ![sinuslocaldatasource5.png](graphics/sinuslocaldatasource5.png)
-<br>*Final*
+<br>*Final result and deploy*
 
 
 ## Mapping tags
 To save the data from the s7 connector we must map them into assets.
 
-In your Industrial edge device open the ```common configurator``` and open ```Define data```
-
-Create two assets:
-* Tank
-  * Energy
+1. Open the Edge Device (Onboarded IED1) and open the common configurator 
+2. Open Define Data and Create two Assets 
+    * Tank
+      * Energy
 
 <br>
 
