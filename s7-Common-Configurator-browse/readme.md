@@ -1,30 +1,29 @@
 # Industrial Edge Playground - Hands-on with data
+Overview of final result
+![DataFlow.png](graphics/DataFlow.PNG) 
 
-![DataFlow.png](graphics/DataFlow.PNG) <br><br>
-
-
-[vlab.siemens.cloud](https://vlab.siemens.cloud/) <br><br>
 
 ## Virtual lab
-We have two virtual machines available
-* 1 Windows with Tia portal machine for PLCs engineering
-* 1 Linux jumphost for access
+We have two virtual machines available running in [vlab.siemens.cloud](https://vlab.siemens.cloud/) 
+* Windows with Tia portal machine for PLCs engineering
+* Linux jumphost as workstation
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource13.png)
 
 
 
 ## Architecure
+Overview of how the machines communicate to the edge environment.
 ![setup.png](graphics_/setup.PNG)
 
 * virtual edge Management
-  * Software installation
+  * Used for installation of software for edge devices
 
 * Virtual edge device
-  * Running application
+  * Running the deployed applications
 
 * Virtual PLC
-  * Controlling machine environment
+  * Controlling machines
 
 ## Configure PLC Connection
 
