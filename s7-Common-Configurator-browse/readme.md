@@ -28,12 +28,13 @@ Components:
 
 ## Step 1: Install applications
 1. Open google chrome on the desktop and read the secrets.html <br>
-2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
+
 <br>
 
 ![secrets.png](graphics_/secrets.PNG)
 <br>*Secrets file*
-
+<br>
+2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
 3. Open the management (IEM) and install apps via the catalog 
 
     * Common Configurator
