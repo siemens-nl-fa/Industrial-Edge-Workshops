@@ -32,7 +32,8 @@ Components:
 ![secrets.png](graphics_/secrets.PNG)
 <br>*Secrets file*
 
-3. Open the management and install the following apps: 
+3. Open the management (IEM) and install apps via the catalog 
+
     * Common Configurator
     * Databus
     * IIH Essential
