@@ -16,6 +16,7 @@ Overview of how the machines communicate to the edge environment.
 ![setup.png](graphics_/setup.PNG)
 <br> *Complete architecture*
 
+Components:
 * virtual edge Management
   * Used for installation of software for edge devices
 
