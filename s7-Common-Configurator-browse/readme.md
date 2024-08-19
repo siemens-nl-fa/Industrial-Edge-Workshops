@@ -32,6 +32,15 @@ Components:
 ![secrets.png](graphics_/secrets.PNG)
 <br>*Secrets file*
 
+3. Open the management and install the following apps: 
+  * Common Configurator
+  * Databus
+  * IIH Essential
+  * IIH Semantics
+  * Registry Service
+  * SIMATIC S7 Connector
+
+
 
 ## Configure PLC Connection
 
