@@ -34,7 +34,7 @@ Components:
 ![secrets.png](graphics_/secrets.PNG)
 <br>*Secrets file*
 
-<br><br>
+<br>
 2. login on the "IEM" and "Onboarded IED1" on different tabs 
 3. Open the management (IEM) and install apps via the catalog 
   * Common Configurator
