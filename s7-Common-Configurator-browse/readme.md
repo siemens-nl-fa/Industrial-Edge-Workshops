@@ -74,21 +74,22 @@ We install the databus to let the apps communicate with eachother over MQTT on t
 <br>*Databus Credentials on common configurator*
 
 
-## Configure PLC Connection
+## Step 3: Configure PLC Connection
 
 To read data from the PLC and provide the data, we will use the SIMATIC S7 Connector to establish connection with the PLC via S7.
 
 The SIMATIC S7 sends the data to the Databus, where the Database app (IIH Essentials) can collect what is needed.
 
-In order to build this infrastructure, these apps must be configured properly:
+Configure the SIMATIC S7 Connector:
 
-- SIMATIC S7 Connector
-- Common Configurator
+1. Open the Edge Device (Onboarded IED1) and open the common configurator 
+2. Select get data and Click the the S7 connector
+3. Add a datasource
+
+![add_datasource.png](graphics_/add_datasource.PNG)
+<br>*Databus Credentials on common configurator*
 
 
-### Configure the SIMATIC S7 Connector 
-
-In your Industrial edge device open the common configurator and configure the S7 connector
 
 This Configuration done locally at the Industrial edge Device
 
