@@ -107,8 +107,9 @@ Configure the SIMATIC S7 Connector:
   * GDB.signals.energySignals.energyConsumptionHeatingTank	
   * GDB.signals.energySignals.energyConsumptionFillingBottles
   * GDB.process.numberProduced
-![browse.png](graphics_/browse.png)
 
+![browse.png](graphics_/browse.PNG)
+<br>*Browsing tags*
 
 
 
