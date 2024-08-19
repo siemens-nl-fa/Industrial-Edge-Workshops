@@ -1,5 +1,5 @@
 # Industrial Edge Playground - Hands-on with data
-Overview of final result
+Overview of final result <br>
 ![DataFlow.png](graphics/DataFlow.PNG) 
 
 
