@@ -1,6 +1,6 @@
 # Industrial Edge Playground - Hands-on with data
 ![DataFlow.png](graphics/DataFlow.PNG) 
-*Final result*
+<br> *Final result*
 
 ## Virtual lab
 We have two virtual machines available running in [vlab.siemens.cloud](https://vlab.siemens.cloud/) 
@@ -8,12 +8,13 @@ We have two virtual machines available running in [vlab.siemens.cloud](https://v
 * Linux jumphost as workstation
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource13.png)
-
+<br> *Virtual machine available*
 
 
 ## Architecure
 Overview of how the machines communicate to the edge environment.
 ![setup.png](graphics_/setup.PNG)
+<br> *Complete architecture*
 
 * virtual edge Management
   * Used for installation of software for edge devices
