@@ -15,7 +15,7 @@ We have two virtual machines available
 
 
 ## Architecure
-![setup.png](graphics_/setup.png)
+![setup.png](graphics_/setup.PNG)
 
 * virtual edge device
 * Virtual PLC
