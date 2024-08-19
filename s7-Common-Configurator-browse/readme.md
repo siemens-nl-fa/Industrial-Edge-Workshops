@@ -11,7 +11,7 @@ We have two virtual machines available
 * 1 Linux jumphost for access
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource13.png)
-Virtual lab Environment.
+
 
 
 ## Architecure
