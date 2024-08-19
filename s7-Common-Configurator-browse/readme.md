@@ -108,7 +108,7 @@ Configure the SIMATIC S7 Connector:
     * GDB.signals.energySignals.energyConsumptionFillingBottles
     * GDB.process.numberProduced
 
-![browse.png](graphics_/browse.PNG)
+![browse.png](graphics_/browse2.PNG)
 <br>*Browsing tags*
 
 
