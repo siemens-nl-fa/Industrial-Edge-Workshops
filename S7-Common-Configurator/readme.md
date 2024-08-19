@@ -1,19 +1,18 @@
 # Industrial Edge Playground - Hands-on with data
+[vlab.siemens.cloud](https://vlab.siemens.cloud/) <br>
+![DataFlow.png](graphics/DataFlow.PNG)
 
-![DataFlow.png](graphics/DataFlow.PNG) <br><br>
-
-[vlab.siemens.cloud](https://vlab.siemens.cloud/) <br><br>
 
 ## Setup
 We have two virtual machines available
-* 1 Windows with Tia portal machine for PLCs engineering
-* 1 Linux jumphost for access
+* 1 Tia portal machine with plcsim
+* 1 Linux jumphost to access the Industrial edge Device
+
+The tia portal machine will be available to start, stop or edit the plc. it is also possible to open the HMI. The Linux jumphost has all the setting available to work with industrial edge.
 
 ![sinuslocaldatasource8.png](graphics/sinuslocaldatasource13.png)
-Virtual lab Environment.
 
 ![setup.png](graphics/setup.png)
-Architecture
 
 ## Configure PLC Connection
 
