@@ -35,15 +35,15 @@ Components:
 <br>*Secrets file*
 
 <br>
-2. login on the "IEM" and "Onboarded IED1" on different tabs <br>
+2. Login on the "IEM" and "Onboarded IED1" on different tabs <br>
 3. Open the management (IEM) and install apps via the catalog <br>
-
   * Common Configurator<br>
   * Databus<br>
   * IIH Essential<br>
   * IIH Semantics<br>
   * Registry Service<br>
   * SIMATIC S7 Connector<br>
+4. Check if the apps are install on the "Onboarded IED1"
 
 
 
