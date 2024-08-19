@@ -1,7 +1,6 @@
 # Industrial Edge Playground - Hands-on with data
-Overview of final result <br>
 ![DataFlow.png](graphics/DataFlow.PNG) 
-
+*Final result*
 
 ## Virtual lab
 We have two virtual machines available running in [vlab.siemens.cloud](https://vlab.siemens.cloud/) 
