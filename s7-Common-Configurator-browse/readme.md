@@ -85,10 +85,10 @@ Configure the SIMATIC S7 Connector:
 1. Open the Edge Device (Onboarded IED1) and open the common configurator 
 2. Select get data and Click the the S7 connector
 3. Add a datasource
-  * Protocol = Optimized s7
-  * Name = PLC
-  * PLC-Type = s7-1500
-  * IP = PLC IP From secrets.html
+    * Protocol = Optimized s7
+    * Name = PLC
+    * PLC-Type = s7-1500
+    * IP = PLC IP From secrets.html
 4. Save
 
 
@@ -99,14 +99,14 @@ Configure the SIMATIC S7 Connector:
 
 5. Click on browse tags > start browse
 6. Add these 8 tags with 1 sec of acquisition cycle:
-  * GDB.operate.machineState
-  * GDB.signals.tankSignals.actLevel
-  * GDB.signals.tankSignals.actPressure
-  * GDB.signals.tankSignals.actTemperature
-  * GDB.signals.energySignals.energyConsumptionFillingTank
-  * GDB.signals.energySignals.energyConsumptionHeatingTank	
-  * GDB.signals.energySignals.energyConsumptionFillingBottles
-  * GDB.process.numberProduced
+    * GDB.operate.machineState
+    * GDB.signals.tankSignals.actLevel
+    * GDB.signals.tankSignals.actPressure
+    * GDB.signals.tankSignals.actTemperature
+    * GDB.signals.energySignals.energyConsumptionFillingTank
+    * GDB.signals.energySignals.energyConsumptionHeatingTank	
+    * GDB.signals.energySignals.energyConsumptionFillingBottles
+    * GDB.process.numberProduced
 
 ![browse.png](graphics_/browse.PNG)
 <br>*Browsing tags*
