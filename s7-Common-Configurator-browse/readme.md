@@ -44,9 +44,21 @@ Components:
     * IIH Semantics<br>
     * Registry Service<br>
     * SIMATIC S7 Connector<br>
-4. Check if the apps are install on the "Onboarded IED1"
+4. Check if the apps are installed on the "Onboarded IED1"
 
+## Step 2: Configure databus & Settings
+1. Open the management (IEM) > Data Connections and select databus
+  * Launch on demoied1
+2. Click on + next to users
+  * Topic Name: ie/#
+  * username: edge
+  * password: edge
+  * permission: Publish and Subscribe
+3. Save
+4. Deploy to demoied1
 
+![databus.png](graphics_/databus.PNG)
+<br>*databus configurator*
 
 ## Configure PLC Connection
 
