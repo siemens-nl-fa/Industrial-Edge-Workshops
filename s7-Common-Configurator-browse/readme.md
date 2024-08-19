@@ -17,8 +17,14 @@ We have two virtual machines available
 ## Architecure
 ![setup.png](graphics_/setup.PNG)
 
-* virtual edge device
+* virtual edge Management
+  * Software installation
+
+* Virtual edge device
+  * Running application
+
 * Virtual PLC
+  * Controlling machine environment
 
 ## Configure PLC Connection
 
