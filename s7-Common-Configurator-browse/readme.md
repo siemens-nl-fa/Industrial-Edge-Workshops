@@ -33,12 +33,12 @@ Components:
 <br>*Secrets file*
 
 3. Open the management and install the following apps: 
-  * Common Configurator
-  * Databus
-  * IIH Essential
-  * IIH Semantics
-  * Registry Service
-  * SIMATIC S7 Connector
+    * Common Configurator
+    * Databus
+    * IIH Essential
+    * IIH Semantics
+    * Registry Service
+    * SIMATIC S7 Connector
 
 
 
